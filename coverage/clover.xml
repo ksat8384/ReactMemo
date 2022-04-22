@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1650608992694" clover="3.2.0">
+  <project timestamp="1650608992694" name="All files">
+    <metrics statements="19" coveredstatements="19" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="6" elements="25" coveredelements="25" complexity="0" loc="19" ncloc="19" packages="2" files="3" classes="3"/>
+    <package name="ReactMemo">
+      <metrics statements="11" coveredstatements="11" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+      <file name="App.js" path="/Users/Alien/Documents/GitHub/ReactMemo/App.js">
+        <metrics statements="11" coveredstatements="11" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="20" count="5" type="stmt"/>
+        <line num="21" count="5" type="stmt"/>
+        <line num="22" count="5" type="stmt"/>
+        <line num="24" count="5" type="stmt"/>
+        <line num="25" count="1" type="stmt"/>
+        <line num="28" count="5" type="stmt"/>
+        <line num="29" count="1" type="stmt"/>
+        <line num="32" count="5" type="stmt"/>
+        <line num="49" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="ReactMemo.src.components">
+      <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+      <file name="List.js" path="/Users/Alien/Documents/GitHub/ReactMemo/src/components/List.js">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="11" count="5" type="stmt"/>
+        <line num="13" count="27" type="stmt"/>
+        <line num="15" count="5" type="stmt"/>
+      </file>
+      <file name="ListItem.js" path="/Users/Alien/Documents/GitHub/ReactMemo/src/components/ListItem.js">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="9" count="3" type="stmt"/>
+        <line num="10" count="24" type="stmt"/>
+        <line num="11" count="24" type="stmt"/>
+        <line num="20" count="3" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>

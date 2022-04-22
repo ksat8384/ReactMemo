@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ListItem Component renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "#00ffff",
+      "marginVertical": 8,
+      "padding": 20,
+    }
+  }
+>
+  <Text
+    style={
+      Object {
+        "fontSize": 32,
+      }
+    }
+  >
+    Batman
+  </Text>
+</View>
+`;

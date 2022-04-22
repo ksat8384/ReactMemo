@@ -1,0 +1,309 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`List Component renders list correctly 1`] = `
+<RCTScrollView
+  data={
+    Array [
+      Object {
+        "id": "a",
+        "name": "Batman",
+      },
+      Object {
+        "id": "b",
+        "name": "Superman",
+      },
+      Object {
+        "id": "c",
+        "name": "Ironman",
+      },
+      Object {
+        "id": "d",
+        "name": "Hulk",
+      },
+      Object {
+        "id": "e",
+        "name": "BlackWidow",
+      },
+      Object {
+        "id": "f",
+        "name": "Thor",
+      },
+      Object {
+        "id": "g",
+        "name": "Captain America",
+      },
+      Object {
+        "id": "h",
+        "name": "Hawkeye",
+      },
+      Object {
+        "id": "i",
+        "name": "Spiderman",
+      },
+      Object {
+        "id": "j",
+        "name": "Antman",
+      },
+    ]
+  }
+  getItem={[Function]}
+  getItemCount={[Function]}
+  keyExtractor={[Function]}
+  onContentSizeChange={[Function]}
+  onLayout={[Function]}
+  onMomentumScrollBegin={[Function]}
+  onMomentumScrollEnd={[Function]}
+  onScroll={[Function]}
+  onScrollBeginDrag={[Function]}
+  onScrollEndDrag={[Function]}
+  removeClippedSubviews={false}
+  renderItem={[Function]}
+  scrollEventThrottle={50}
+  stickyHeaderIndices={Array []}
+  testID="flat-list"
+  viewabilityConfigCallbackPairs={Array []}
+>
+  <View>
+    <View
+      onLayout={[Function]}
+      style={null}
+    >
+      <View
+        style={
+          Object {
+            "backgroundColor": "#00ffff",
+            "marginVertical": 8,
+            "padding": 20,
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "fontSize": 32,
+            }
+          }
+        >
+          Batman
+        </Text>
+      </View>
+    </View>
+    <View
+      onLayout={[Function]}
+      style={null}
+    >
+      <View
+        style={
+          Object {
+            "backgroundColor": "#00ffff",
+            "marginVertical": 8,
+            "padding": 20,
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "fontSize": 32,
+            }
+          }
+        >
+          Superman
+        </Text>
+      </View>
+    </View>
+    <View
+      onLayout={[Function]}
+      style={null}
+    >
+      <View
+        style={
+          Object {
+            "backgroundColor": "#00ffff",
+            "marginVertical": 8,
+            "padding": 20,
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "fontSize": 32,
+            }
+          }
+        >
+          Ironman
+        </Text>
+      </View>
+    </View>
+    <View
+      onLayout={[Function]}
+      style={null}
+    >
+      <View
+        style={
+          Object {
+            "backgroundColor": "#00ffff",
+            "marginVertical": 8,
+            "padding": 20,
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "fontSize": 32,
+            }
+          }
+        >
+          Hulk
+        </Text>
+      </View>
+    </View>
+    <View
+      onLayout={[Function]}
+      style={null}
+    >
+      <View
+        style={
+          Object {
+            "backgroundColor": "#00ffff",
+            "marginVertical": 8,
+            "padding": 20,
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "fontSize": 32,
+            }
+          }
+        >
+          BlackWidow
+        </Text>
+      </View>
+    </View>
+    <View
+      onLayout={[Function]}
+      style={null}
+    >
+      <View
+        style={
+          Object {
+            "backgroundColor": "#00ffff",
+            "marginVertical": 8,
+            "padding": 20,
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "fontSize": 32,
+            }
+          }
+        >
+          Thor
+        </Text>
+      </View>
+    </View>
+    <View
+      onLayout={[Function]}
+      style={null}
+    >
+      <View
+        style={
+          Object {
+            "backgroundColor": "#00ffff",
+            "marginVertical": 8,
+            "padding": 20,
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "fontSize": 32,
+            }
+          }
+        >
+          Captain America
+        </Text>
+      </View>
+    </View>
+    <View
+      onLayout={[Function]}
+      style={null}
+    >
+      <View
+        style={
+          Object {
+            "backgroundColor": "#00ffff",
+            "marginVertical": 8,
+            "padding": 20,
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "fontSize": 32,
+            }
+          }
+        >
+          Hawkeye
+        </Text>
+      </View>
+    </View>
+    <View
+      onLayout={[Function]}
+      style={null}
+    >
+      <View
+        style={
+          Object {
+            "backgroundColor": "#00ffff",
+            "marginVertical": 8,
+            "padding": 20,
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "fontSize": 32,
+            }
+          }
+        >
+          Spiderman
+        </Text>
+      </View>
+    </View>
+    <View
+      onLayout={[Function]}
+      style={null}
+    >
+      <View
+        style={
+          Object {
+            "backgroundColor": "#00ffff",
+            "marginVertical": 8,
+            "padding": 20,
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "fontSize": 32,
+            }
+          }
+        >
+          Antman
+        </Text>
+      </View>
+    </View>
+  </View>
+</RCTScrollView>
+`;
