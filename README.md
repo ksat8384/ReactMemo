@@ -8,4 +8,4 @@ Whenever we type into the input field, only the app component re-renders because
 
 If we add an item to the list, all the previous items in the list remains the same and thus doesn't re-render and only the new item added renders due to memoized ListItem component.
 
-<a href="url"><img src="https://user-images.githubusercontent.com/6311330/164647263-be79703f-a6d6-46d2-88ac-64fff8630c9a.png" align="left" height="700" width="480" ></a>
+<a href="url"><img src="https://user-images.githubusercontent.com/6311330/164647263-be79703f-a6d6-46d2-88ac-64fff8630c9a.png" align="left" height="700" width="400" ></a>
